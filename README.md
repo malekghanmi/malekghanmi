@@ -68,10 +68,18 @@ What drives me: turning a model that *sometimes works* into one people can actua
 
 ## 📜 Certifications
 
-- **Machine Learning Specialization** · DeepLearning.AI
-- **OCI AI Foundations** · Oracle
-- **AI Agents** · KodeKloud
-- **Networking** · Cisco
+- **Machine Learning Specialization** (Supervised Learning, Advanced Learning Algorithms, Unsupervised Learning, Reinforcement Learning) · DeepLearning.AI
+- **Oracle Cloud Infrastructure 2025 AI Foundations Associate** (1Z0-1122-25) · Oracle
+- **AI Agents Fundamentals** · KodeKloud
+- **CCNAv7: Introduction to Networks (ITN)** · Cisco
+- **Linux Essentials** · Cisco
+- **Introduction to Cybersecurity** · Cisco
+
+---
+
+## 🌍 Languages
+
+Arabic (native) · French (C1) · English (B2) · German (A1) · Spanish (A1)
 
 ---
 
